@@ -1,4 +1,4 @@
 # Desktop-App React-Redux
 
- npm install 
+ npm install <br />
  npm start
