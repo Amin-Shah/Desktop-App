@@ -1,4 +1,4 @@
-# Desktop-App
+# Desktop-App React-Redux
 
-npm Install 
-npm start
+# npm Install 
+# npm start
